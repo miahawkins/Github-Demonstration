@@ -1,2 +1,2 @@
-# ku_demo
+# GitHub Demonstration
 demonstration in class
