@@ -1,2 +1,2 @@
 # GitHub Demonstration
-demonstration in class
+For the new user
